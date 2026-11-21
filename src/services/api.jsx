@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://job-application-tracker-backend-production-12fe81a6.up.railway.app';
+const API_BASE_URL = 'https://job-application-tracker-backend-production-12fe81a6.up.railway.app';
 
 // --- COMPANY SERVICES ---
 export const fetchCompanies = async () => {
